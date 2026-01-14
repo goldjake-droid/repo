@@ -1,0 +1,8 @@
+# requirements.txt
+# Install dependencies with: pip install -r requirements.txt
+
+web3==6.11.3
+py-clob-client==0.20.0
+python-dotenv==1.0.0
+requests==2.31.0
+eth-account==0.10.0
